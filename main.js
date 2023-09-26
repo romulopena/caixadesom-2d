@@ -1,1 +1,1 @@
-alert('IMBITUVA');
+document.querySelector('.tecla_pom');
