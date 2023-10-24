@@ -2,7 +2,6 @@
 function tocaSom(idElementoAudio){
     document.querySelector(idElementoAudio).play();
 }
-
 //criando referência constante listaDeTeclas buscando 
 //todos os itens pela classe .tecla
 const listaDeTeclas = document.querySelectorAll('.tecla');
