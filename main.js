@@ -8,9 +8,7 @@ function tocaSom(idElementoAudio){
         console.log("Elemento não encontrado");
     }
 }
-
-//criando referência constante listaDeTeclas buscando 
-//todos os itens pela classe .tecla
+//criando referência constante listaDeTeclas buscando  //todos os itens pela classe .tecla
 const listaDeTeclas = document.querySelectorAll('.tecla');
 //estrutura de repetição "while" significa 
 //"enquanto algo acontecer" mudou while para "for"
